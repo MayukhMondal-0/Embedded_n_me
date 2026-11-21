@@ -1,0 +1,1 @@
+21-11-2026:Day 1 of starting embedded C, setup and basics
